@@ -20,3 +20,7 @@ Todos os 55 exercícios têm ilustrações de referência do RepDB Free Tier; 53
 ## Acesso e finalidade
 
 Projeto gratuito de acesso público via portfólio. Não há autorização geral de redistribuição do código ou de materiais de terceiros.
+
+## Interface visual
+
+A marca e as ilustrações decorativas de equipamento, planejamento, alimentação e registro de treino são construídas em SVG no próprio projeto, sem reutilizar imagens do RepDB como material de derivação. A interface usa Barlow Condensed e Manrope via Google Fonts, com alternativas do sistema. Fontes: [Barlow Condensed](https://github.com/google/fonts/tree/main/ofl/barlowcondensed) e [Manrope](https://github.com/google/fonts/tree/main/ofl/manrope), distribuídas sob SIL Open Font License conforme os respectivos projetos. Os arquivos das fontes não são redistribuídos pelo repositório. As ilustrações dos exercícios continuam atribuídas às fontes descritas acima.
