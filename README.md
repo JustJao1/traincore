@@ -1,4 +1,4 @@
-# Série Norte
+# Traincore
 
 Aplicação de treino e nutrição, por João Victor da Silva. 
 
