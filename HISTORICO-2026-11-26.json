@@ -1,0 +1,120 @@
+{
+  "repository": "JustJao1/traincore",
+  "snapshot": "867e5397630e7e971c7e74d69227833b667e5512",
+  "scope": "Histórico alcançável a partir do commit preservado, tal como retornado pela API GitHub; datas e autorias são metadados Git, não certificação jurídica.",
+  "complete": true,
+  "entries": [
+    {
+      "commit": "867e5397630e7e971c7e74d69227833b667e5512",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T01:06:38Z",
+      "committer_date": "2026-11-27T01:06:38Z",
+      "subject": "Document project ownership, attribution and third-party rights",
+      "signature_verified": false
+    },
+    {
+      "commit": "d98da9a68f5892556c559ed27fbc3f75d198e0c2",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:59:32Z",
+      "committer_date": "2026-11-27T00:59:32Z",
+      "subject": "Document media attribution and local gallery limits",
+      "signature_verified": false
+    },
+    {
+      "commit": "1968337f83be6d3475ffc46d2ca93f48d47c7211",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:59:29Z",
+      "committer_date": "2026-11-27T00:59:29Z",
+      "subject": "Complete video reference coverage, credit sources and add privacy-friendly playback",
+      "signature_verified": false
+    },
+    {
+      "commit": "b3d83c2fa411f8c9c67ab41d3221846b562c69e1",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:58:49Z",
+      "committer_date": "2026-11-27T00:58:49Z",
+      "subject": "Add exercise media references, inline video player and persistent personal image/video gallery",
+      "signature_verified": false
+    },
+    {
+      "commit": "3b2c8cfc47967decb1808bb95c0eb52d9d534981",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:49:30Z",
+      "committer_date": "2026-11-27T00:49:30Z",
+      "subject": "Integrate three additional original animated exercise references",
+      "signature_verified": false
+    },
+    {
+      "commit": "a6a35bbc2d6147a3b506f448aab3677631e02bb6",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:47:20Z",
+      "committer_date": "2026-11-27T00:47:20Z",
+      "subject": "Update Traincore documentation",
+      "signature_verified": false
+    },
+    {
+      "commit": "d88bd423a5e74808bd27d10c47fb958837a964c9",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:47:17Z",
+      "committer_date": "2026-11-27T00:47:17Z",
+      "subject": "Use Traincore browser icon",
+      "signature_verified": false
+    },
+    {
+      "commit": "a03416d704c8fff3db3b4247fa04ebb2b08c9de5",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:47:15Z",
+      "committer_date": "2026-11-27T00:47:15Z",
+      "subject": "Use Traincore assistant identity",
+      "signature_verified": false
+    },
+    {
+      "commit": "58e395b9333e6644f2b4c6c70bd7fd07c8a5397d",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:47:11Z",
+      "committer_date": "2026-11-27T00:47:11Z",
+      "subject": "Adopt Traincore identity and refine exercise reference library",
+      "signature_verified": false
+    },
+    {
+      "commit": "bf76d3dbf7e4b460f204495dcaeaeef753873209",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:32:04Z",
+      "committer_date": "2026-11-27T00:32:04Z",
+      "subject": "Embed original generated flexion animation with clear educational labeling",
+      "signature_verified": false
+    },
+    {
+      "commit": "705673231e28a2d43ad772a1079a3a5633e47899",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:24:47Z",
+      "committer_date": "2026-11-27T00:24:47Z",
+      "subject": "Add independent Série Norte application",
+      "signature_verified": false
+    },
+    {
+      "commit": "8b9f0c4b948ac7b3d439a552018ba574a1521998",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:24:45Z",
+      "committer_date": "2026-11-27T00:24:45Z",
+      "subject": "Add independent Série Norte application",
+      "signature_verified": false
+    },
+    {
+      "commit": "2ad2aaede0171d4f15d139724ad6f5b04732cbfe",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:24:43Z",
+      "committer_date": "2026-11-27T00:24:43Z",
+      "subject": "Add independent Série Norte application",
+      "signature_verified": false
+    },
+    {
+      "commit": "83fdff6399bccf12a5bd56a71cd51bdf893aec89",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:24:41Z",
+      "committer_date": "2026-11-27T00:24:41Z",
+      "subject": "Add independent Série Norte application",
+      "signature_verified": false
+    }
+  ]
+}
