@@ -13,3 +13,7 @@ Contagem estática: 55 exercícios, 55 mapeamentos. Sintaxe no ambiente: passed.
 
 ## Pendências
 Testes em navegador, Lighthouse, axe/WCAG, 8 resoluções, comparação por capturas, regressão funcional, reprodução de mídia, inspeção anatômica, novos exercícios licenciados, ícone PNG/Apple touch, OG raster, instalação, auditoria independente e novos hashes de autoria. A marca horizontal SVG usa fallback Arial se Barlow indisponível. Não promover antes de validar. Tags históricas intactas.
+
+## Verificação adicional da versão de prévia
+
+Commit 402f36f1a206abcacd9037d29d9c6b3926e406d9 confirmado no GitHub. Frontend e API compilados sem erro sintático. Definições e mapeamentos de mídia byte a byte idênticos à base. Oito verificações isoladas passaram: formatação de 90 s e zero, tempo restante em execução, pausado e expirado, primeiro exercício pendente, transição ao próximo e conclusão. Vercel marcou o deployment dpl_4DzvrMqKLRXrCWDCV292z79gK6ND READY; HTTP 200 para HTML, app.js, CSS de identidade, favicon, manifesto e GET da API (configurada). Prévia: https://forma-training-k79ii72bq-silvajoao232334-2036.vercel.app. Teste HTTP não equivale a teste de navegador. O commit de interface está sem assinatura criptográfica pessoal. A main e produção não foram modificadas.
