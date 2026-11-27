@@ -24,3 +24,8 @@ Projeto gratuito de acesso público via portfólio. Não há autorização geral
 ## Interface visual
 
 A marca e as ilustrações decorativas de equipamento, planejamento, alimentação e registro de treino são construídas em SVG no próprio projeto, sem reutilizar imagens do RepDB como material de derivação. A interface usa Barlow Condensed e Manrope via Google Fonts, com alternativas do sistema. Fontes: [Barlow Condensed](https://github.com/google/fonts/tree/main/ofl/barlowcondensed) e [Manrope](https://github.com/google/fonts/tree/main/ofl/manrope), distribuídas sob SIL Open Font License conforme os respectivos projetos. Os arquivos das fontes não são redistribuídos pelo repositório. As ilustrações dos exercícios continuam atribuídas às fontes descritas acima.
+
+
+## Revisão visual (branch de homologação)
+
+A nova interface separa HTML, CSS e JavaScript, usa Barlow (SIL Open Font License, via Google Fonts: https://github.com/google/fonts/tree/main/ofl/barlow) e mantém os arquivos de autoria anteriores. As fotografias editoriais preexistentes mantêm crédito Pexels; a verificação individual dos direitos e disponibilidade está pendente. A branch de revisão não representa aprovação de produção.
