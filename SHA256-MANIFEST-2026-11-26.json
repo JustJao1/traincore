@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "repository": "JustJao1/traincore",
+  "commit": "867e5397630e7e971c7e74d69227833b667e5512",
+  "git_tree": "24f7f1619978c0e5452f22a9b8126e9dc3ae3aac",
+  "sha256_git_inventory": "9a6d69ef44bb9bb364bc670faa36e1068901c12b13a476f2a61f5a42103bf4cb",
+  "sha256_file_manifest": "b6f13caa70710e87736e17d5f0148690ee240a5224a8c4eb1f6d371a78e258ad",
+  "files": [
+    {
+      "path": "OWNERSHIP.md",
+      "mode": "100644",
+      "git_object": "004349400173adef03724bc67469c607f10310ad",
+      "bytes": 719,
+      "sha256": "89cb7c1e54aa4e6c6408dd77492bc40a6cee33f74ac666fe33f8bfb53299725c",
+      "lfs_pointer": false
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "git_object": "4a486d1b68ba95284a76359ed49365909acadb3a",
+      "bytes": 865,
+      "sha256": "60004764ff929cfcaba74ff5e2c95c11cb9b3cc3314118330f015e8c498576b7",
+      "lfs_pointer": false
+    },
+    {
+      "path": "api/forma-chat.js",
+      "mode": "100644",
+      "git_object": "696408338256ad17ff3e011bb761d9ba2d8ba9d0",
+      "bytes": 14460,
+      "sha256": "0c7e450bcb5cf953af48fc1d1eb355f5b7c0a239674d0f8fae5bfaf4d755d2f2",
+      "lfs_pointer": false
+    },
+    {
+      "path": "favicon.svg",
+      "mode": "100644",
+      "git_object": "266dee2a9f70cb51ce3e3328b0e2ed2eb23f8983",
+      "bytes": 217,
+      "sha256": "f703191b221d2281b03927caf249cd97e88b10ac97fa63489184911146582c5d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "index.html",
+      "mode": "100644",
+      "git_object": "d31bfe1e356f5e85aaeaa88a8bac76a114967455",
+      "bytes": 194822,
+      "sha256": "8767d347d67d84de832e18067e769c55a49a632774a01d9d7ad74d78fcd8a81a",
+      "lfs_pointer": false
+    }
+  ],
+  "scope": "Exact tracked Git blob bytes; excludes untracked files, external services/media, LFS content and submodule content. LinkPilot snapshot contains documentation only."
+}
