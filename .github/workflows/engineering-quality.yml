@@ -1,0 +1,27 @@
+name: Engineering quality
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Static validation
+        run: |
+          mkdir -p quality-results
+          set -o pipefail
+          node tests/static.cjs 2>&1 | tee quality-results/static.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: quality-results
+          path: quality-results/
+          retention-days: 30
+      - run: docker compose up --build --wait
+      - run: docker compose down
+        if: always()
