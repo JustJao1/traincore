@@ -24,3 +24,18 @@ Projeto gratuito de acesso público via portfólio. Não há autorização geral
 ## Interface visual
 
 A marca e as ilustrações decorativas de equipamento, planejamento, alimentação e registro de treino são construídas em SVG no próprio projeto, sem reutilizar imagens do RepDB como material de derivação. A interface usa Barlow Condensed e Manrope via Google Fonts, com alternativas do sistema. Fontes: [Barlow Condensed](https://github.com/google/fonts/tree/main/ofl/barlowcondensed) e [Manrope](https://github.com/google/fonts/tree/main/ofl/manrope), distribuídas sob SIL Open Font License conforme os respectivos projetos. Os arquivos das fontes não são redistribuídos pelo repositório. As ilustrações dos exercícios continuam atribuídas às fontes descritas acima.
+
+
+## Engineering evidence / Evidências de engenharia
+
+[Architecture, decisions and bilingual walkthrough / Arquitetura, decisões e demonstração bilíngue](docs/engineering-quality.md).
+
+Measured snapshot / Registro de 28/11/2026:
+
+PT: Verificação estática e contêiner de interface aprovados; sem medição de cobertura em execução.
+
+EN: Static checks and UI container passed; no runtime coverage measurement.
+
+[Actual GitHub Actions run / Execução real de CI](https://github.com/JustJao1/traincore/actions/runs/46110693946).
+
+[Portfolio evidence / Evidências no portfólio](https://justjao1.vercel.app/#engineering).
